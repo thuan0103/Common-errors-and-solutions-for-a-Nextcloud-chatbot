@@ -1,0 +1,1 @@
+# Common-errors-and-solutions-for-a-Nextcloud-chatbot
